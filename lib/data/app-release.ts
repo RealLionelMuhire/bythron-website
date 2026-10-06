@@ -33,11 +33,11 @@
  * here was fully replaced, never left pointing at both.
  */
 export const androidRelease = {
-  version: "1.0.1",
-  apkFileName: "traq-iq-v1.0.1-arm64-v8a.apk",
-  apkPath: "/downloads/traq-iq-v1.0.1-arm64-v8a.apk",
-  sizeLabel: "42 MB",
-  releaseDate: "2026-09-21",
+  version: "1.1.0",
+  apkFileName: "traq-iq-v1.1.0-arm64-v8a.apk",
+  apkPath: "/downloads/traq-iq-v1.1.0-arm64-v8a.apk",
+  sizeLabel: "42.0 MB",
+  releaseDate: "2026-10-06",
   /** arm64-v8a only — covers virtually all Android devices sold since ~2017. */
   abi: "arm64-v8a",
   // Confirmed via `aapt dump badging` on the actual built APK, not assumed
